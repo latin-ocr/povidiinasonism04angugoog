@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonism04angugoog_0296.png"; bbox 0 0 1013 1425; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 181 526 201 871">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 181 526 201 871">
+     <span class='ocr_line' id='line_1_1' title="bbox 181 526 201 871; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 186 839 201 871; x_wconf 64' lang='grc' dir='ltr'>Υῲ</span> <span class='ocrx_word' id='word_1_2' title='bbox 186 726 200 832; x_wconf 59' lang='lat' dir='ltr'>NV&#39;IVLV</span> <span class='ocrx_word' id='word_1_3' title='bbox 186 697 200 709; x_wconf 68' lang='lat'>51</span> <span class='ocrx_word' id='word_1_4' title='bbox 185 644 200 679; x_wconf 66' lang='grc' dir='ltr'>ΟΜ</span> <span class='ocrx_word' id='word_1_5' title='bbox 183 570 199 637; x_wconf 67' lang='grc' dir='ltr'><strong>ΗΥΞΔἿ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 183 550 197 562; x_wconf 69' lang='lat' dir='ltr'>ss</span> <span class='ocrx_word' id='word_1_7' title='bbox 181 526 196 542; x_wconf 73' lang='lat' dir='ltr'><strong><em>W</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 188 166 924 1270">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 188 166 924 1270">
+     <span class='ocr_line' id='line_1_2' title="bbox 188 166 924 1270; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 188 166 924 1270; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
